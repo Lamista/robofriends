@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import CardArray from '../components/CardArray';
-import SearchBox from "../SearchBox";
+import SearchBox from "../components/SearchBox";
 import Scroll from "../components/Scroll";
 import ErrorBoundary from "../components/ErrorBoundary";
 import "./App.css";
