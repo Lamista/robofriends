@@ -1,2 +1,2 @@
 # RoboFriends
-ZTM. React: class, this.state.
+React: class, this.state.
